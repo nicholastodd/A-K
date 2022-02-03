@@ -4,7 +4,7 @@
 ---
 
 # Packing Handle Part Stack
-![HandlePartStack](https://i.imgur.com/5ZbRi6s.jpg)
+![HandlePartStack](https://raw.githubusercontent.com/nicholastodd/A-K/main/PartStack.jpg)
 
 ---
 ## Links to Materials
