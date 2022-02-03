@@ -1,22 +1,11 @@
 # PackingHandle
-![Imgur](https://i.imgur.com/GqRfjZg.png)
-![partStack](https://i.imgur.com/dXTC4qBh.jpg)
+[HandleAssy](https://i.imgur.com/GqRfjZg.png)
+[HandlePartStack](https://i.imgur.com/5ZbRi6s.jpg)
 
-You certainly dont need to puchase these components from amazon, you can find them on ebay or banggood or aliexpress as well. It's usually worth it to get a few of the same because it's easy to ruin them during prototyping. 
-
-1 [5.08mm Pitch Screw Terminals](https://www.amazon.com/gp/product/B07DQNVLL8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-2 [128 x 64 OLED](https://www.amazon.com/gp/product/B085WCRS7C/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-4 [Perf Board](https://www.amazon.com/Solderable-BreadBoard-matches-breadboards-1-85in/dp/B00LLO4Q7W/ref=sr_1_5?dchild=1&keywords=perforated+breadboard&qid=1601417642&sr=8-5)
-5 [120v AC to 5v DC](https://www.amazon.com/gp/product/B07YXN8J6R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-6 [Large Aluminum Knob](https://www.amazon.com/gp/product/B087M2QCC2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-7 [Rotary Encoder](https://www.amazon.com/gp/product/B07DM2YMT4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-8 [Arduino Nano](https://www.amazon.com/gp/product/B07KCH534K/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-11 [2.54mm Pitch Screw Terminals](https://www.amazon.com/gp/product/B07NSJV6NW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+## Links to Materials
+1.1 [m3x16 bolts](https://www.amazon.com/Socket-Screws-Metric-Stainless-Machine/dp/B07KRRG8HT/ref=sr_1_5?crid=3JZQ8DVCPM29Y&keywords=m3x16&qid=1643846349&sprefix=m3x16%2Caps%2C111&sr=8-5&th=1)
+1.2 [m3x16 nuts](https://www.amazon.com/binifiMux-100pcs-M3-0-5mm-Black-Carbon/dp/B07QMDTYRR/ref=sr_1_4?c=ts&keywords=Hardware%2BNuts&qid=1643846391&refinements=p_n_feature_fourteen_browse-bin%3A11434052011&s=industrial&sr=1-4&ts_id=16409861&th=1)
+4 [Steel Spring Wire](https://www.amazon.com/gp/product/B01LY68EU7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 
-# Other Parts
-![SSRs](https://i.imgur.com/JKYPX55h.jpg)
-
-Besides the enclosure assembly, you will need suitable wire, various [spade connectors](https://www.amazon.com/gp/product/B078PMWNJC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) and 2 quality [40A Relays](https://www.amazon.com/gp/product/B00E1LC1VK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). I've used 200ºC Temp resistant silicone wire for all lengths runnning inside the machine, [18AWG](https://www.amazon.com/gp/product/B0746HMTPP/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) for the relays and [22AWG](https://www.amazon.com/gp/product/B01M0O1NXM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) for the 5V signal wires.
-![wiring diagram](https://i.imgur.com/Tp9VdDOh.jpg)
-You will also need to reroute the ground to the 3 way valve so that solenoid if you plan to have solenoid control independent of pump control like I do. Otherwise just piggyback the poles of the brew switch.
+## 3D Print Files 
