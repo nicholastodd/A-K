@@ -1,6 +1,6 @@
 # PackingHandle
-[HandleAssy](https://i.imgur.com/GqRfjZg.png)
-[HandlePartStack](https://i.imgur.com/5ZbRi6s.jpg)
+![HandleAssy](https://i.imgur.com/GqRfjZg.png)
+![HandlePartStack](https://i.imgur.com/5ZbRi6s.jpg)
 
 ## Links to Materials
 1.1 [m3x16 bolts](https://www.amazon.com/Socket-Screws-Metric-Stainless-Machine/dp/B07KRRG8HT/ref=sr_1_5?crid=3JZQ8DVCPM29Y&keywords=m3x16&qid=1643846349&sprefix=m3x16%2Caps%2C111&sr=8-5&th=1)
