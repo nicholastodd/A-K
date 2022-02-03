@@ -14,5 +14,7 @@
 
 4 [Steel Spring Wire](https://www.amazon.com/gp/product/B01LY68EU7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
+5 [Steel Rods](https://www.amazon.com/gp/product/B07KJKHRLJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
 ---
 ## 3D Print Files 
